@@ -8,10 +8,6 @@ using Eigen::VectorXd;
 using std::vector;
 
 
-/// Apparently I can define numbers like this??
-#define EPS  0.001;
-
-
 /**
  * Initializes Unscented Kalman filter
  */
